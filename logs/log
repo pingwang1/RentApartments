@@ -1,0 +1,611 @@
+[E 171229 18:27:18 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:27:20 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:27:25 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:27:26 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:27:30 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:27:30 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:27:30 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:28:00 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:28:12 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:28:23 web:1590] Uncaught exception GET /api/register (192.168.245.1)
+    HTTPServerRequest(protocol='http', host='192.168.245.129:8888', method='GET', uri='/api/register', version='HTTP/1.1', remote_ip='192.168.245.1', headers={'Accept-Language': 'zh-CN,zh;q=0.9', 'Accept-Encoding': 'gzip, deflate', 'Host': '192.168.245.129:8888', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'Upgrade-Insecure-Requests': '1', 'Connection': 'keep-alive', 'Cookie': 'n3=v3; count="2|1:0|10:1514428366|5:count|4:NA==|081c17419af0a06fcc41099329400e765f1e08687501348b0d18c421192fb510"', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36'})
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 1488, in _execute
+        result = self.prepare()
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 23, in prepare
+        if self.reuqest.headers.get("Content-Type","").startswith("application/json"):
+    AttributeError: 'RegisterHandler' object has no attribute 'reuqest'
+[E 171229 18:28:23 web:2063] 500 GET /api/register (192.168.245.1) 4.97ms
+[I 171229 18:28:23 web:2063] 200 GET /favicon.ico (192.168.245.1) 56.89ms
+[E 171229 18:29:32 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:29:32 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:29:32 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:29:34 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:29:39 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:29:39 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:29:39 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:29:57 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:29:57 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:29:57 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:29:57 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:51:18 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:51:22 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:51:22 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:51:22 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:51:26 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:51:26 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:51:26 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:51:44 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:51:49 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:51:49 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:51:49 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:51:51 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:59:40 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:59:40 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:59:40 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:59:43 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:59:44 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:59:45 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:59:45 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:59:45 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:59:48 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:59:48 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 18:59:48 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 19:02:33 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[E 171229 19:02:34 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/http1connection.py", line 238, in _read_message
+        delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/routing.py", line 251, in finish
+        self.delegate.finish()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2096, in finish
+        self.execute()
+      File "/home/atguigu/.virtualenvs/py2/local/lib/python2.7/site-packages/tornado/web.py", line 2116, in execute
+        **self.handler_kwargs)
+      File "/home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py", line 40, in __init__
+        super(StaticFileBaseHandler, self).__init__(*args,**kwargs)
+    NameError: global name 'args' is not defined
+[I 171229 19:05:24 autoreload:198] /home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/urls.py modified; restarting server
+[I 171229 19:08:16 autoreload:198] /home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/utils/session.py modified; restarting server
+[I 171229 19:10:02 autoreload:198] /home/atguigu/PycharmProjects/env/tornadoProject/RentApartments/handlers/BaseHandler.py modified; restarting server
+[I 171229 19:10:20 web:2063] 200 GET /register.html (192.168.245.1) 178.37ms
+[I 171229 19:10:20 web:2063] 200 GET /static/plugins/bootstrap/css/bootstrap.min.css (192.168.245.1) 68.59ms
+[I 171229 19:10:20 web:2063] 200 GET /static/plugins/font-awesome/css/font-awesome.min.css (192.168.245.1) 37.42ms
+[I 171229 19:10:20 web:2063] 200 GET /static/css/reset.css (192.168.245.1) 8.47ms
+[I 171229 19:10:20 web:2063] 200 GET /static/css/ihome/main.css (192.168.245.1) 8.18ms
+[I 171229 19:10:20 web:2063] 200 GET /static/css/ihome/register.css (192.168.245.1) 3.05ms
+[I 171229 19:10:20 web:2063] 200 GET /static/js/jquery.min.js (192.168.245.1) 33.51ms
+[I 171229 19:10:20 web:2063] 200 GET /static/images/logo@128x59.png (192.168.245.1) 14.14ms
+[W 171229 19:10:20 web:2063] 404 GET /static/js/ihome/register.js (192.168.245.1) 32.72ms
+[I 171229 19:10:20 web:2063] 200 GET /static/plugins/bootstrap/js/bootstrap.min.js (192.168.245.1) 15.77ms
+[I 171229 19:10:20 web:2063] 200 GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 (192.168.245.1) 17.67ms
+[W 171229 19:10:20 web:2063] 404 GET /static/js/ihome/register.js (192.168.245.1) 2.09ms
+[I 171229 19:10:20 web:2063] 200 GET /favicon.ico (192.168.245.1) 20.21ms

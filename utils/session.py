@@ -20,16 +20,16 @@ class Session(object):
 			request_handler_obj.set_secure_cookie("session_id",self.session_id)
 
 		#如果存在session_id,去redis中取出data
-	else:
-		try:
-			json_data = request_handler_obj.redis.get("sess_%s"%self.session_id)
-		except Exception as e:
-			logging.error(e)
-			raise e
-		if not json_data:
-			self.data={}
 		else:
-			self.data = json.loads(json_data)
+			try:
+				json_data = request_handler_obj.redis.get("sess_%s"%self.session_id)
+			except Exception as e:
+				logging.error(e)
+				raise e
+			if not json_data:
+				self.data={}
+			else:
+				self.data = json.loads(json_data)
 
 	def save(self):
 		json_data = json.dumps(self.data)
@@ -44,5 +44,5 @@ class Session(object):
 		try:
 			self._request_handler.redis.delete("sess_%s"%self.session_id)
 		except Exception as e:
-			loggin.error(e)
+			logging.error(e)
 		self._request_handler.clear_cookie("session_id")

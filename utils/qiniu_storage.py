@@ -39,5 +39,5 @@ def storage(file_data):
 if __name__ == "__main__":
 	file_name = raw_input("input file name")
 	with open(file_name,'rb') as file:
-		file_data.=file.read()
+		file_data=file.read()
 		storage(file_data)
